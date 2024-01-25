@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Cicek Cavdar
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Cicek 
+last_name: Cavdar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Director INS/Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: KTH Royal Institute Of Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,6 +72,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Cicek Cavdar is an Associate Professor, leading a research group on Intelligent Network Systems at the School of EECS at KTH Royal Institute of Technology in Sweden. She finished her Ph.D studies in Computer Science, University of California, Davis and in Istanbul Technical University, Turkey in 2009. After her PhD, she worked as an Assistant Professor in Computer Engineering Department, Istanbul Technical University. She served as symposium chair of IEEE ICC 2017 (GCSN),  held in Paris. She has chaired several workshops on green mobile broadband technologies and Green Mobile Networks last ten years co-located with IEEE ICC and Globecom.  She had leading roles in several European projects in the areas of aerial communications and green networks such as EU EIT Digital projects "5GrEEn: Towards Green 5G Mobile Networks" and "Seamless Direct Air to Ground Communications (DA2GC) in Europe- ICARO-EU". 2015-2018, she served as the leader of Swedish cluster for the EU Celtic Plus project SooGREEN "Service Oriented Optimization of Green Mobile Networks“, and from 2018 she has the same role in the EU Celtic Plus project AI4Green “Artificial Intelligence for Green Mobile Networks”. Her research interests include design and analysis of telecommunication networks with focus on beyond 5G mobile networks,  edge/cloud computing, big data in the network, URLLC, energy efficiency, and AI assisted mobile networks. She is the technical coordinator of EU Celtic-Next 6G-SKY - 6G for Connected Sky project which has started recently. 

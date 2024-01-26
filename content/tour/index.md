@@ -28,12 +28,22 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+      - title: 3D Networks
+        content: 'Integrated Connectivity Solutions for 3D Networks'
+        align: left
+        background:
+          image:
+            filename: Intregrated.png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
       - title: Artificial Intelligence & Machine Learning
         content: 'Risk-Aware AI-Assisted Network Management'
         align: right
         background:
           image:
-            filename:AI_network.png
+            filename: AI_network.png
             filters:
               brightness: 0.5
           position: center

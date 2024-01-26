@@ -18,22 +18,32 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 3D Networks
+        content: 'Integrated Connectivity Solutions for 3D Networks'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: 3D_network.png
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Artificial Intelligence & Machine Learning
+        content: 'Risk-Aware AI-Assisted Network Management'
         align: right
         background:
           image:
-            filename: welcome1.jpg
+            filename:AI_network.png
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+      - title: Virtualization, Cloudification
+        content: 'Network Architectures '
+        align: right
+        background:
+          image:
+            filename:Virtual_network.png
             filters:
               brightness: 0.5
           position: center

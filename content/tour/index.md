@@ -26,6 +26,7 @@ sections:
             filename: 3D_network.png
             filters:
               brightness: 0.7
+              size: contain
           position: center
           color: '#555'
       - title: 3D Networks
@@ -36,6 +37,7 @@ sections:
             filename: Intregrated.png
             filters:
               brightness: 0.7
+              size: contain
           position: center
           color: '#555'
       - title: Artificial Intelligence & Machine Learning
@@ -46,6 +48,7 @@ sections:
             filename: AI_network.png
             filters:
               brightness: 0.5
+              size: contain
           position: center
           color: '#333'
         link:

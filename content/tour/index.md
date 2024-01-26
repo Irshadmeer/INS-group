@@ -38,16 +38,6 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-      - title: Virtualization, Cloudification
-        content: 'Network Architectures '
-        align: right
-        background:
-          image:
-            filename:Virtual_network.png
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
         link:
           icon: graduation-cap
           icon_pack: fas

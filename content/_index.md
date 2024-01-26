@@ -11,7 +11,7 @@ sections:
         INS
         Research Group
       image:
-        filename: welcome1.jpg
+        filename: cicek.png
       text: |
         <br>
         Welcome to KTH Intelligent Network Systems Research Group! We are a passionate team of researchers dedicated to advancing the field of Intelligent Network Systems. Explore our latest news and meet the team to learn more about our work.

@@ -14,8 +14,8 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
+        KTH **I**ntelligent **N**etwork **S**ystems Research Group
         
-        The **Interlegent Network Systems** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:

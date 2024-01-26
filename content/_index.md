@@ -14,7 +14,8 @@ sections:
         filename: welcome.png
       text: |
         <br>
-        KTH **I**ntelligent **N**etwork **S**ystems Research Group
+        Welcome to KTH **I**ntelligent **N**etwork **S**ystems Research Group! We are a passionate team of researchers dedicated to advancing the field of Intelligent Network Systems. Explore our latest news and meet the team to learn more about our work.
+
         
   
   - block: collection

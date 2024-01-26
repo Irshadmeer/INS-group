@@ -16,8 +16,6 @@ sections:
         <br>
         Welcome to KTH Intelligent Network Systems Research Group! We are a passionate team of researchers dedicated to advancing the field of Intelligent Network Systems. Explore our latest news and meet the team to learn more about our work.
 
-        
-  
   - block: collection
     content:
       title: Latest News
@@ -67,4 +65,17 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+  - block: logos
+    content:
+      title: Sponsors
+      logos:
+        - image: assets/media/icons/ericsson.png
+          alt: Ericsson
+          link: https://www.ericsson.com
+        - image: assets/media/icons/airbus.png
+          alt: Airbus
+          link: https://www.ericsson.com
+        # Add more logos as needed
+    design:
+      columns: '3'  # Adjust the number of columns based on t
 ---

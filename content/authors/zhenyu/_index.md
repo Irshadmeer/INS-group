@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Mustafa Ozger
+title: Zhenyu Li
 
 # Full name (for SEO)
-first_name: Mustafa
-last_name: Ozger
+first_name: Zhenyu
+last_name: Li
 
 # Username (this should match the folder name)
 authors:
-  - mustafa
+  - zhenyu
 
 # Is this the primary user of the site?
 superuser: false
@@ -70,7 +70,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 
-Mustafa Özger received his B.Sc. degree in electrical and electronics engineering from Middle East Technical University, Ankara, Turkey, in 2011, and his M.Sc. and Ph.D. degrees in electrical and electronics engineering from Koc University, Istanbul, Turkey, in 2013 and 2017, respectively. Currently, he is a researcher at KTH Royal Institute of Technology, Stockholm, Sweden. His research interests include wireless communications and networking.
+zinat is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Mustafa Ozger
+title: Shuai Zhang
 
 # Full name (for SEO)
-first_name: Mustafa
-last_name: Ozger
+first_name: Shuai
+last_name: Zhang
 
 # Username (this should match the folder name)
 authors:
-  - mustafa
+  - shuai
 
 # Is this the primary user of the site?
 superuser: false
@@ -73,4 +73,4 @@ user_groups:
   - Researchers
 ---
 
-Mustafa Özger received his B.Sc. degree in electrical and electronics engineering from Middle East Technical University, Ankara, Turkey, in 2011, and his M.Sc. and Ph.D. degrees in electrical and electronics engineering from Koc University, Istanbul, Turkey, in 2013 and 2017, respectively. Currently, he is a researcher at KTH Royal Institute of Technology, Stockholm, Sweden. His research interests include wireless communications and networking.
+Shuai Zhang received his B.E. and M.E. degree from the Department of Electronic Engineering, University of Electronic Science and Technology of China (UESTC), and his Ph.D. degree in electrical engineering from the New Jersey Institute of Technology, Newark, NJ, USA, in 2014, 2017 and 2022, respectively. He is currently a Postdoctoral Researcher at the School of EECS at KTH Royal Institute of Technology, Stockholm, Sweden. His research interests include space-air-ground integrated networks, Internet of Things, mobile edge computing, optical networks, UAVassisted communications, and artificial intelligence in wireless networks.

@@ -16,6 +16,4 @@ This recognition is a testament to Cicek's exceptional leadership, dedication, a
 
 We, at the INS Research Group at KTH, extend our heartfelt congratulations to Cicek Cavdar for this well-deserved acknowledgment. Her recognition is not only a celebration of her individual success but also a reflection of the collective brilliance within our group.
 
-Stay tuned for more updates as we eagerly unveil the remaining 25 exceptional women on this list. The journey to recognize and celebrate the outstanding women in 6G technology is a testament to the shared commitment and expertise within the INS Research Group at KTH.
-
 Let's continue to celebrate the achievements of Cicek Cavdar and the phenomenal minds within our group, as they redefine possibilities and pave the way for the future of 6G technology! 🚀🌐 #WomenIn6G #InnovationLeadership #CicekCavdar #TechTrailblazers #KTHResearchGroup

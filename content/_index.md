@@ -65,17 +65,4 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
-  - block: logos
-    content:
-      title: Sponsors
-      logos:
-        - image: assets/media/icons/ericsson.png
-          alt: Ericsson
-          link: https://www.ericsson.com
-        - image: assets/media/icons/airbus.png
-          alt: Airbus
-          link: https://www.ericsson.com
-        # Add more logos as needed
-    design:
-      columns: '3'  # Adjust the number of columns based on t
 ---

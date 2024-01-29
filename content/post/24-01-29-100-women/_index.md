@@ -1,5 +1,5 @@
 ---
-title: Celebrating Excellence in 6G Technology: Cicek Cavdar, Director of INS Research Group at KTH, Joins the Ranks of the 100 Most Efficient Leaders! 
+title: Celebrating Excellence in 6G Technology- Cicek Cavdar, Director of INS Research Group at KTH, Joins the Ranks of the 100 Most Efficient Leaders! 
 date: 2024-01-29
 image:
   focal_point: 'top'

@@ -73,4 +73,4 @@ user_groups:
   - Grad Students
 ---
 
-satya is a good guy 
+Satya is a PhD student in KTH Royal Institute of Technology

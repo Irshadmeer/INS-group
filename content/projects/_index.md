@@ -22,7 +22,7 @@ tags: []
 categories: []
 
 # Project image.
-image: cicek.png
+image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/example-image)'
   focal_point: Center
 

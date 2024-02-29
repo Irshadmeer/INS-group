@@ -2,7 +2,7 @@
 title: Project
 
 projects:
-  - title: Example Project 1
+  - title: Project 1
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tincidunt magna sed ex sollicitudin condimentum.'
     date: '2023-02-01'
     image:
@@ -12,7 +12,7 @@ projects:
     url_website: 'https://example.org/project1'
     url_video: 'https://www.youtube.com/watch?v=example1'
 
-  - title: Example Project 2
+  - title: Project 2
     description: 'Duis posuere tellusac convallis placerat. Sed ac faucibus dolor, scelerisque sollicitudin nisi.'
     date: '2023-03-15'
     image:

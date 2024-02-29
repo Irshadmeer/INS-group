@@ -1,9 +1,11 @@
 ---
-title: Project 1
+title: 1100K€ RAI-6Green, Jan 2024- Dec 2026.
 date: 2024-01-01
 ---
 
- Learning Based Dynamic Cluster Reconfiguration for UAV Mobility Management With 3D Beamforming
+ EU Celtic-Next project, Robust and AI Native 6G for Green Networks. KTH serves as the technical coordinator of the project. Tele2 is the managing coordinator. 
+
+
 
 <!--more-->
 

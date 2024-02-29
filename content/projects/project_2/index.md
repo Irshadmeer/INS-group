@@ -1,9 +1,9 @@
 ---
-title: Project 2
-date: 2023-11-01
+title: 1100K€ 6G-SKY- EU, Celtic-Next, April 2022 – Mar 2025
+date: 2022-04-01
 ---
 
- Learning Based Dynamic Cluster Reconfiguration for UAV Mobility Management With 3D Beamforming
+ EU Celtic-Next project. 6G for Connected Sky (6G-SKY). KTH serves as the technical coordinator of this strategic project in collaboration with Ericsson and Airbus. 
 
 <!--more-->
 

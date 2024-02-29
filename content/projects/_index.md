@@ -1,5 +1,5 @@
 ---
-title: Project
+title: Projects
 projects:
   - title: Project 1
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tincidunt magna sed ex sollicitudin condimentum.'

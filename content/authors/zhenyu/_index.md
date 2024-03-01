@@ -14,32 +14,31 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: KTH Royal Institute of Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Zhenyu Li obtained his bachelor's degree from Xidian University, Xi'an China 2021, and his master's degree from KTH Royal Institute of Technology, Stockholm, Sweden 2023. He is currently a PhD student at KTH. Currently, he is focusing on the design of wireless networks with the assistance of reconfigurable intelligent surfaces (RISs), and the management of the resources in the RIS-assisted network in order to meet the requirements of various communication scenarios.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Wireless Communication
+  - Reconfigurable Intelligent Surfaces
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Information Communication Technic
+      institution: KTH Royal Institute of Technology
+      year: Present
+    - course: MSc in Communication System
+      institution: KTH Royal Institute of Technology
+      year: 2023
+    - course: BSc in Information Engineering
+      institution: Xidian University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -73,6 +72,3 @@ user_groups:
   - Grad Students
 ---
 
-zinat is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

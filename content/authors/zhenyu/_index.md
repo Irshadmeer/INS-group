@@ -71,4 +71,4 @@ email: ''
 user_groups:
   - Grad Students
 ---
-
+Zhenyu Li obtained his bachelor's degree from Xidian University, Xi'an China 2021, and his master's degree from KTH Royal Institute of Technology, Stockholm, Sweden 2023. He is currently a PhD student at KTH. Currently, he is focusing on the design of wireless networks with the assistance of reconfigurable intelligent surfaces (RISs), and the management of the resources in the RIS-assisted network in order to meet the requirements of various communication scenarios.

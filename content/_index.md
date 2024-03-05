@@ -25,7 +25,7 @@ sections:
       filters:
         author: ''
         category: 'research-areas'
-        exclude_featured: false
+        exclude_featured: true
         publication_type: ''
         tag: ''
       offset: 0
@@ -102,4 +102,16 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+  
+  - block: image
+  content:
+    title: Sponsors
+    subtitle: Our Supporters
+    images:
+      - image_path: "assets/media/icons/airbus.png"
+      - image_path: "assets/media/icons/airbus.png"
+      - image_path: "assets/media/icons/airbus.png"
+    design:
+      columns: '3'  # Adjust the number of columns based on your preference
+
 ---

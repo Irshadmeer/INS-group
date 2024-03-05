@@ -1,5 +1,5 @@
 ---
-title: Research Areas 1.
+title: Integrated Connectivity Solutions for 3D Networks
 date: 2022-10-25
 type: page
 category: research-areas

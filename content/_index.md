@@ -32,7 +32,7 @@ sections:
       order: asc
       page_type: page
     design:
-      view: card
+      view: list
       columns: '1'
 
   - block: collection
@@ -102,16 +102,4 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
-  
-  - block: image
-  content:
-    title: Sponsors
-    subtitle: Our Supporters
-    images:
-      - image_path: "assets/media/icons/airbus.png"
-      - image_path: "assets/media/icons/airbus.png"
-      - image_path: "assets/media/icons/airbus.png"
-    design:
-      columns: '3'  # Adjust the number of columns based on your preference
-
 ---

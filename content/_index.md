@@ -16,6 +16,26 @@ sections:
         <br>
         Welcome to KTH Intelligent Network Systems Research Group! We are a passionate team of researchers dedicated to advancing the field of Intelligent Network Systems. Explore our latest news and meet the team to learn more about our work.
 
+
+  - block: collection
+  content:
+    title: Research Areas
+    subtitle:
+    text:
+    count: 3  # Adjust the count based on the number of research areas you have
+    filters:
+      author: ''
+      category: 'research-areas'  # You can create a category for research areas
+      exclude_featured: false
+      publication_type: ''
+      tag: ''
+    offset: 0
+    order: asc  # You might want to customize the order
+    page_type: page  # Assuming each research area has its own page
+  design:
+    view: card
+    columns: '1'
+
   - block: collection
     content:
       title: Latest News

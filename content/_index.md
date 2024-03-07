@@ -32,7 +32,7 @@ sections:
       order: asc
       page_type: research
     design:
-      view: card  # Use 'list' view for a simple list of titles
+      view: list  # Use 'list' view for a simple list of titles
       columns: '1'
     params:
       title_style: link  

@@ -19,13 +19,13 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
   - name: KTH Royal Institute of Technology
-    url: ''
+    url: 'https://www.kth.se/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Zhenyu Li obtained his bachelor's degree from Xidian University, Xi'an China 2021, and his master's degree from KTH Royal Institute of Technology, Stockholm, Sweden 2023. He is currently a PhD student at KTH. Currently, he is focusing on the design of wireless networks with the assistance of reconfigurable intelligent surfaces (RISs), and the management of the resources in the RIS-assisted network in order to meet the requirements of various communication scenarios.
 
 interests:
-  - Wireless Communication
+  - Wireless Communications
   - Reconfigurable Intelligent Surfaces
 
 education:
@@ -33,7 +33,7 @@ education:
     - course: PhD in Information Communication Technic
       institution: KTH Royal Institute of Technology
       year: Present
-    - course: MSc in Communication System
+    - course: MSc in Communication Systems
       institution: KTH Royal Institute of Technology
       year: 2023
     - course: BSc in Information Engineering
@@ -47,16 +47,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:zhenyuli@kth.se'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=oBfzpG8AAAAJ&hl=en&oi=sra
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

@@ -15,27 +15,27 @@ role: Director INS/Associate Professor
 # Organizations/Affiliations
 organizations:
   - name: KTH Royal Institute Of Technology
-    url: ''
+    url: 'https://www.kth.se/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Dr. Cicek Cavdar leads a research group on Intelligent Network Systems at the School of EECS at KTH Royal Institute of Technology in Sweden. She finished her Ph.D studies in Computer Science, University of California, Davis and in Istanbul Technical University, Turkey in 2009. After her PhD, she worked as an Assistant Professor in Computer Engineering Department, Istanbul Technical University. At Wireless@KTH research center, she led EU EIT Digital projects such as "5GrEEn - Towards Green 5G Mobile Networks" and "Seamless Direct Air to Ground Communications (DA2GC) in Europe- ICARO-EU". 2015-2018, she served as the leader of Swedish cluster for the EU Celtic Plus project SooGREEN "Service Oriented Optimization of Green Mobile Networks“, and from 2018 she has the same role in the EU Celtic Plus project AI4Green “Artificial Intelligence for Green Mobile Networks”. Her research interests include design and analysis of telecommunication networks with focus on beyond 5G mobile networks,  edge/cloud computing, big data in the network, URLLC, energy efficiency, and AI assisted mobile networks.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Wireless communications
+  - Cloud/Edge computing
+  - AI assisted mobile networks
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+#    - course: PhD in Artificial Intelligence
+#      institution: Stanford University
+#      year: 2012
+    - course: PhD in Computer Science
+      institution: Istanbul Technical University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Computer Engineering
+      institution: Istanbul Technical University
+      year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +44,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:cavdar@kth.se'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?hl=en&user=9DjCqDkAAAAJ
+#  - icon: github
+#    icon_pack: fab
+#    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

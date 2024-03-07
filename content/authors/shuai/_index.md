@@ -14,32 +14,34 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PostDoc
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: KTH Royal Institute of Technology
+    url: 'https://www.kth.se/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include space-air-ground integrated networks, Internet of Things, mobile edge computing, optical networks, UAV-assisted communications, and artificial intelligence in wireless networks.
 
 interests:
+  - Wireless Communications
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Optical Networks
+  - Mobile Edge Computing
+  - Space-air-ground Integrated networks
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electrical Engineering
+      institution: New Jersey Institute of Technology
+      year: 2022
+    - course: MEng in Electronic Engineering
+      institution:  University of Electronic Science and Technology of China 
+      year: 2017
+    - course: Bachelors in Electronic Engineering
+      institution:  University of Electronic Science and Technology of China 
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +50,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:shuai2@kth.se'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,4 +67,4 @@ user_groups:
   - Researchers
 ---
 
-Shuai Zhang received his B.E. and M.E. degree from the Department of Electronic Engineering, University of Electronic Science and Technology of China (UESTC), and his Ph.D. degree in electrical engineering from the New Jersey Institute of Technology, Newark, NJ, USA, in 2014, 2017 and 2022, respectively. He is currently a Postdoctoral Researcher at the School of EECS at KTH Royal Institute of Technology, Stockholm, Sweden. His research interests include space-air-ground integrated networks, Internet of Things, mobile edge computing, optical networks, UAVassisted communications, and artificial intelligence in wireless networks.
+Shuai Zhang is currently a Postdoctoral Researcher at the School of EECS at KTH Royal Institute of Technology, Stockholm, Sweden. His research interests include space-air-ground integrated networks, Internet of Things, mobile edge computing, optical networks, UAV-assisted communications, and artificial intelligence in wireless networks.

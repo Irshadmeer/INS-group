@@ -18,16 +18,14 @@ role: Phd Student
 
 # Organizations/Affiliations
 organizations:
-  - name: KTH Royal Instatitute of Technology
-    url: ''
+  - name: KTH Royal Institute of Technology
+    url: 'https://www.kth.se/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Wireless Communications
 
 education:
   courses:
@@ -48,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'sssgse@kth.se'
+    link: 'mailto:'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -70,7 +68,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Grad Students
 ---
 
-satya is a good guy 
+Qichen Wang .. 

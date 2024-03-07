@@ -3,7 +3,7 @@
 title: Satya Seeram
 
 # Full name (for SEO)
-first_name: Satya
+first_name: Siva Satya Sri Ganesh
 last_name: Seeram
 
 # Username (this should match the folder name)
@@ -18,7 +18,7 @@ role: Phd Student
 
 # Organizations/Affiliations
 organizations:
-  - name: KTH Royal Instatitute of Technology
+  - name: KTH Royal Institute of Technology
     url: 'https://www.kth.se/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'sssgse@kth.se'
+    link: 'mailto:sssgse@kth.se'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=J1f-kWkAAAAJ&hl=en

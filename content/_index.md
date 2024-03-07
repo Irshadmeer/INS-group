@@ -30,12 +30,12 @@ sections:
         tag: ''
       offset: 0
       order: asc
-      page_type: page
+      page_type: research
     design:
-      view: list  # Use 'list' view for a simple list of titles
+      view: card  # Use 'list' view for a simple list of titles
       columns: '1'
     params:
-      title_style: link  # Add this parameter to make titles clickable
+      title_style: link  
 
 
   - block: collection

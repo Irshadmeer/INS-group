@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Information Communication Technic
+    - course: PhD in Wireless communications
       institution: KTH Royal Institute of Technology
       year: Present
     - course: MSc in Communication Systems

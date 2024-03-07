@@ -57,9 +57,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/GaneshSeeram
-  - icon: linkedin
-    icon_pack: ai
-    link: https://www.linkedin.com/in/ganesh-seeram-s4/
+#  - icon: linkedin
+#    icon_pack: ai
+#    link: https://www.linkedin.com/in/ganesh-seeram-s4/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

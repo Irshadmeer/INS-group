@@ -14,32 +14,34 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Phd Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: KTH Royal Instatitute of Technology
+    url: 'https://www.kth.se/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Machine Learning in Wireless communications with focus on Reinforcement Learning.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Wireless communications
+  - Non-terrestrial networks
+  - Machine Learning
+  - Reinforcement Learning
+  - RAN architectures
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Wireless communications
+      institution: KTH Royal Institute of Technology
+      year: Present
+    - course: Masters in Telecommunication
+      institution: Politechnico Di Milano, Milan, Italy
+      year: 2019
+    - course: Bachelors of Technology in Electronics and Communications Engineering
+      institution: National Institute of Technology (NIT) Srinagar, India
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +50,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'iameer@kth.se'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user%253DsvDQ3yAAAAAJ%2526hl%253Den
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Irshadmeer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +72,4 @@ user_groups:
   - Grad Students
 ---
 
-Mustafa Ozger is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Irshad A. Meer is presently pursuing a Ph.D. in the Division of Communication Systems at KTH Royal Institute of Technology, Stockholm, Sweden. He earned his master's degree in Telecommunication Engineering from Politecnico Di Milano, Milan, Italy, in 2019, following a B.Tech. in Electronics and Communication Engineering from the National Institute of Technology (NIT) Srinagar, India, in 2014. His research focuses on the application of machine learning in wireless communication.

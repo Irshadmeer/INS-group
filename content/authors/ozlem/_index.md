@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Zinat Behdad
+title: Özlem Tugfe Demir
 
 # Full name (for SEO)
-first_name: Zinat
-last_name: Behdad
+first_name: Özlem Tugfe 
+last_name: Demir
 
 # Username (this should match the folder name)
 authors:
-  - zinat
+  - ozlem
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PostDoc
 
 # Organizations/Affiliations
 organizations:
@@ -22,22 +22,12 @@ organizations:
     url: 'https://www.kth.se/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ..
+bio: My research interests include 
 
 interests:
   - Wireless Communications
 
-education:
-  courses:
-    - course: PhD in Wireless Communications
-      institution: KTH Royal Institute of Technology
-      year: 
-    - course: MSc in Telecommunications Engineering
-      institution: Isfahan University of Technology
-      year: 2017
-    - course: BSc in Electrical Electronics and Communications Engineering
-      institution: Arak University
-      year: 2014
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -46,10 +36,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zinatb@kth.se'
+    link: 'mailto:'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=N_l-BeMAAAAJ&hl=en&oi=sra
+    link: 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,7 +53,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 
-Zinat ...
+Özlem Tugfe Demir .. 

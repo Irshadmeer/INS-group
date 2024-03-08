@@ -17,24 +17,28 @@ superuser: false
 role: Then - PostDoc, Now - Assistant Prof. TOBB University
       
 
-
 # Organizations/Affiliations
 organizations:
   - name: KTH Royal Institute of Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests
+bio: My research interests include 
 
 interests:
-  - Wireless communications
+  - Wireless Communications
 
 education:
   courses:
-    - course: 
-      institution: 
+    - course: PhD in Wireless Communications
+      institution: KTH Royal Institute of Technology
       year: 
-
+    - course: Masters in Telecommunications Engineering
+      institution: Istanbul Technical University
+      year: 2019
+    - course: Bachelors in Electronics and Communications Engineering
+      institution: Istanbul Technical University
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -43,7 +47,9 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:iameer@kth.se'
+    link: 'mailto:'
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,6 +61,7 @@ email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+
 user_groups:
   - Alumni
 ---

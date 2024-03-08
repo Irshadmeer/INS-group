@@ -19,25 +19,26 @@ role: Phd Student
 # Organizations/Affiliations
 organizations:
   - name: KTH Royal Institute of Technology
-    url: 'https://www.kth.se/'
+    url: 'https://www.kth.se/profile/qichenw'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 
+bio: My research focuses on the application of artificial intelligence in wireless networks.
 
 interests:
   - Wireless Communications
+  - Reinforcement Learning
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Wireless Communications
+      institution: KTH Royal Institute of Technology
+      year: 
+    - course: Masters in Telecommunication Networks
+      institution: Northeastern University
+      year: 2022
+    - course: Bachelors in Electronics and Information Engineering
+      institution: Nanjing University of Science and Technology
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -46,16 +47,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:qichenw@kth.se'
+
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,4 +66,4 @@ user_groups:
   - Grad Students
 ---
 
-Qichen Wang .. 
+Qichen Wang attained his bachelor's degree in Electronics and Information Engineering from Nanjing University of Science and Technology, Nanjing, China, in 2019. Subsequently, he earned his master's degree in Telecommunication Networks from Northeastern University, Boston, United States, in 2022. Presently, he is actively pursuing a Ph.D. degree within the Division of Communication Systems at the KTH Royal Institute of Technology in Stockholm, Sweden. At present, his focus in research encompasses the application of artificial intelligence in wireless networks. 

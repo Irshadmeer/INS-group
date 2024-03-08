@@ -19,7 +19,7 @@ role: PostDoc
 # Organizations/Affiliations
 organizations:
   - name: KTH Royal Institute of Technology
-    url: 'https://www.kth.se/'
+    url: 'https://www.kth.se/profile/shuzha'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include space-air-ground integrated networks, Internet of Things, mobile edge computing, optical networks, UAV-assisted communications, and artificial intelligence in wireless networks.

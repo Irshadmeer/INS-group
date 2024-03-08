@@ -19,7 +19,7 @@ role: Phd Student
 # Organizations/Affiliations
 organizations:
   - name: KTH Royal Institute of Technology
-    url: 'https://www.kth.se/'
+    url: 'https://www.kth.se/profile/oatopal'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include 

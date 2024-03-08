@@ -19,7 +19,7 @@ role: PostDoc
 # Organizations/Affiliations
 organizations:
   - name: KTH Royal Institute Of Technology
-    url: 'https://www.kth.se/'
+    url: 'https://www.kth.se/profile/aunas'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include applying analytical techniques for resource management in mobile cellular networks.
@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Kyung Hee University
-      year: 2012
+      year: 2021
     - course: MS in Telecom and Computer Networks
       institution: National Institute of Sciences and Technology
       year: 2015

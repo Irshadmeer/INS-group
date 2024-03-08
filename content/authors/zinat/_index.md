@@ -19,23 +19,29 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
   - name: KTH Royal Institute of Technology
-    url: 'https://www.kth.se/'
+    url: 'https://www.kth.se/profile/zinatb'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ..
+bio: My research focuses on integrated sensing and communication (ISAC) in cell-free massive MIMO networks.
 
 interests:
   - Wireless Communications
+  - Integrated Sensing and Communication
+  - Cell-free Massive MIMO
+  - Energy Efficiency 
+  - URLLC
+  - RF Energy Harvesting
+
 
 education:
   courses:
     - course: PhD in Wireless Communications
       institution: KTH Royal Institute of Technology
       year: 
-    - course: MSc in Telecommunications Engineering
+    - course: MSc in Electronics and Communications Engineering
       institution: Isfahan University of Technology
       year: 2017
-    - course: BSc in Electrical Electronics and Communications Engineering
+    - course: BSc in Electronics and Communications Engineering
       institution: Arak University
       year: 2014
 
@@ -66,4 +72,4 @@ user_groups:
   - Grad Students
 ---
 
-Zinat ...
+Zinat Behdad is currently a PhD student at the School of EECS at KTH Royal Institute of Technology, Stockholm, Sweden. She received an M.S. degree in electrical engineering and telecommunications from Isfahan University of Technology, Iran, in 2017. Her research focuses on integrated sensing and communication (ISAC) in cell-free massive MIMO networks.

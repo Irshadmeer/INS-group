@@ -19,7 +19,7 @@ role: Senior Researcher
 # Organizations/Affiliations
 organizations:
   - name: KTH Royal Institute Of Technology
-    url: 'https://www.kth.se/'
+    url: 'https://www.kth.se/profile/ozger'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include wireless communications and networking.

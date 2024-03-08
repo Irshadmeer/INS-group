@@ -14,8 +14,8 @@ authors:
 superuser: false
 
 # Role/position
-role: Then - PostDoc
-      Now - Assistant Prof. TOBB University
+role: Then - PostDoc, Now - Assistant Prof. TOBB University
+      
 
 
 # Organizations/Affiliations

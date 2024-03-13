@@ -26,11 +26,11 @@ bio: My research focuses on integrated sensing and communication (ISAC) in cell-
 
 interests:
   - Wireless Communications
-  - Integrated Sensing and Communication
-  - Cell-free Massive MIMO
-  - Energy Efficiency 
-  - URLLC
-  - RF Energy Harvesting
+  #- Integrated Sensing and Communication
+  #- Cell-free Massive MIMO
+  #- Energy Efficiency 
+  #- URLLC
+  #- RF Energy Harvesting
 
 
 education:

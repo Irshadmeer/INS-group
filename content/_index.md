@@ -21,7 +21,7 @@ sections:
       title: Research Areas
       subtitle:
       text:
-      count: 3
+      count: 5
       filters:
         author: ''
         category: 'research-areas'

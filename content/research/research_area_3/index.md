@@ -1,5 +1,5 @@
 ---
-title: Non-Terrestrial Network
+title: Non-Terrestrial Network (NTN)
 date: 2022-10-25
 type: page
 category: research-areas

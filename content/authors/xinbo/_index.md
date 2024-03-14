@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Özlem Tugfe Demir
+title: Xinbo Wang
 
 # Full name (for SEO)
-first_name: Özlem Tugfe 
-last_name: Demir
+first_name: Xinbo
+last_name: Wang
 
 # Username (this should match the folder name)
 authors:
-  - ozlem
+  - xinbo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PostDoc, Now Assistant Professor at TOBB University
+role: visiting PhD, Now Software Engineer at Meta
       
 
 # Organizations/Affiliations
@@ -30,15 +30,10 @@ interests:
 
 education:
   courses:
-    - course: PhD in Wireless Communications
-      institution: KTH Royal Institute of Technology
+    - course: PhD 
+      institution: 
       year: 
-    - course: Masters in Telecommunications Engineering
-      institution: Istanbul Technical University
-      year: 2019
-    - course: Bachelors in Electronics and Communications Engineering
-      institution: Istanbul Technical University
-      year: 2017
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -66,4 +61,3 @@ user_groups:
   - Alumni
 ---
 
-Özlem Tugfe Demir 

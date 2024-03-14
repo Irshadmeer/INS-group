@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Özlem Tugfe Demir
+title: M M Aftab Hossain
 
 # Full name (for SEO)
-first_name: Özlem Tugfe 
-last_name: Demir
+first_name: Aftab
+last_name: Hossain
 
 # Username (this should match the folder name)
 authors:
-  - ozlem
+  - aftab
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PostDoc, Now Assistant Professor at TOBB University
+role: PostDoc, Now Co-Founder at Olwel
       
 
 # Organizations/Affiliations
@@ -25,20 +25,20 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include 
 
-interests:
-  - Wireless Communications
+# interests:
+#   - Wireless Communications
 
 education:
   courses:
-    - course: PhD in Wireless Communications
+    - course: PostDoc in Wireless Communications
       institution: KTH Royal Institute of Technology
-      year: 
-    - course: Masters in Telecommunications Engineering
-      institution: Istanbul Technical University
-      year: 2019
-    - course: Bachelors in Electronics and Communications Engineering
-      institution: Istanbul Technical University
-      year: 2017
+      year:
+#     - course: Masters in Telecommunications Engineering
+#       institution: Istanbul Technical University
+#       year: 2019
+#     - course: Bachelors in Electronics and Communications Engineering
+#       institution: Istanbul Technical University
+#       year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -66,4 +66,3 @@ user_groups:
   - Alumni
 ---
 
-Özlem Tugfe Demir 

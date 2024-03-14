@@ -6,7 +6,7 @@ category: research-areas
 ---
 
 
-Discover the latest advancements in applying artificial intelligence (AI) to optimize wireless networks, revolutionizing connectivity and communication technologies.
+The AI For Wireless Networks reserach area deals with applying artificial intelligence (AI) to optimize wireless networks, revolutionizing connectivity and communication technologies.
 <!--more-->
 1. AI-Enabled Resource Allocation:
    - Dynamic Spectrum Management: Investigating AI-driven approaches to dynamically allocate spectrum resources, maximizing spectrum utilization efficiency and mitigating interference in wireless communication systems.

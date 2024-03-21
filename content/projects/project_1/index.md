@@ -1,5 +1,6 @@
 ---
 title: "RAI-6Green"
+type: page
 date: 2024-01-01
 ---
 

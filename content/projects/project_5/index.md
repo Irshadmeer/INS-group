@@ -1,5 +1,6 @@
 ---
 title: "ICARO-EU"
+type: page
 date: 2021-04-01
 ---
 

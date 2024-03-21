@@ -1,5 +1,6 @@
 ---
 title: "6G-SKY-EU"
+type: page
 date: 2022-04-01
 ---
 

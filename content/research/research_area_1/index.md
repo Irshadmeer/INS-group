@@ -7,10 +7,6 @@ category: research-areas
 
 ## Green Mobile Networks
 
-**Date:** October 25, 2022  
-**Type:** Page  
-**Category:** Research Areas  
-
 ---
 
 ### Introduction
@@ -35,7 +31,7 @@ The primary objective of Green Mobile Networks research is to reduce the energy 
 
 - **Network Virtualization for Energy Efficiency:** Exploring the use of network virtualization technologies to consolidate network resources, optimize energy usage, and improve scalability and flexibility.
 
-- **Smart Grid Integration:** Investigating the integration of mobile networks with smart grid infrastructure to leverage energy-aware scheduling and load balancing algorithms for efficient energy management.
+- **Base Station Sleep Mode Optimization:** Investigating the base station sleep mode to leverage load trends during the day and night  for efficient energy management.
 
 - **Lifecycle Assessment:** Conducting lifecycle assessments of mobile network infrastructure to identify opportunities for reducing environmental impact across the entire lifecycle, from manufacturing to disposal.
 

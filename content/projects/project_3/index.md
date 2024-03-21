@@ -1,5 +1,6 @@
 ---
 title: SooGreen.
+type: page
 date: 2021-01-01
 ---
 

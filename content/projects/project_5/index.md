@@ -6,7 +6,7 @@ date: 2021-04-01
 
 ## ICARO-EU
 Past Project
-Partners: Ericsson, KTH
+
 
 <!--more-->
 

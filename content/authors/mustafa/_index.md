@@ -63,7 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Senior_Researcher
+  - Senior Researcher
 ---
 
 Mustafa Özger received his B.Sc. degree in electrical and electronics engineering from Middle East Technical University, Ankara, Turkey, in 2011, and his M.Sc. and Ph.D. degrees in electrical and electronics engineering from Koc University, Istanbul, Turkey, in 2013 and 2017, respectively. Currently, he is a researcher at KTH Royal Institute of Technology, Stockholm, Sweden. His research interests include wireless communications and networking.

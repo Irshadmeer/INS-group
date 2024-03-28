@@ -1,10 +1,10 @@
 ---
-title: "6G and Beyond Networks"
+title: "Cloud and AI Native Network Architectures"
 type: page
 category: research-areas
 ---
 
-## 6G and Beyond Networks
+## Cloud and AI Native Network Architectures
 
 
 
@@ -12,7 +12,7 @@ category: research-areas
 
 ### Introduction
 
-6G and Beyond Networks research focuses on the development of advanced communication architectures and technologies to pave the way for the next generation of mobile networks. This research area explores innovative approaches to optimize the utilization of processing, optical, radio, and storage resources, with a focus on Virtual Centralized Radio Access Network (V-CRAN), machine learning-driven solutions, softwarization, cloudification, and densification.
+Cloud and AI Native Network Architectures research area focuses on the development of advanced communication architectures and technologies to pave the way for the next generation of mobile networks. This research area explores innovative approaches to optimize the utilization of processing, optical, radio, and storage resources, with a focus on Virtual Centralized Radio Access Network (V-CRAN), machine learning-driven solutions, softwarization, cloudification, and densification.
 
 ### Key Focus Areas
 
@@ -48,6 +48,6 @@ Densification involves the deployment of a dense network of small cells to incre
 
 ### Conclusion
 
-6G and Beyond Networks research is at the forefront of shaping the future of mobile communication networks. By exploring innovative architectures such as V-CRAN and leveraging machine learning-driven solutions, along with advancements in softwarization, cloudification, and densification, researchers aim to create more efficient, scalable, and adaptive network infrastructures to meet the evolving demands of future generations of wireless communication.
+Cloud and AI Native Network Architectures is at the forefront of shaping the future of mobile communication networks. By exploring innovative architectures such as V-CRAN and leveraging machine learning-driven solutions, along with advancements in softwarization, cloudification, and densification, researchers aim to create more efficient, scalable, and adaptive network infrastructures to meet the evolving demands of future generations of wireless communication.
 
-For more information about 6G and Beyond Networks research and related projects, please explore our [Research Areas](#) section.
+For more information about Cloud and AI Native Network Architectures research and related projects, please explore our [Research Areas](#) section.

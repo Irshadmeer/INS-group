@@ -1,14 +1,14 @@
 ---
 title: 6G Sky Workshop
 
-event: 6G sky Conference
+event: 6G sky Workshop
 event_url: https://www.6g-sky.net/publications/events.html
 
 location:  Lakeside Labs 
 address:
   street: 
   city: Klagenfurt
-  region: ''
+  region: 'Austria'
   postcode: ''
   country: Austria
 
@@ -19,12 +19,12 @@ The workshop was further enriched by visits to the drone hall and the 5G playgro
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2034-10-29T13:00:00Z'
-date_end: '2024-10-30T15:00:00Z'
+date: '2024-10-29T09:00:00Z'
+date_end: '2024-10-30T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2014-10-30T00:00:00Z'
+publishDate: '2024-10-30T00:00:00Z'
 
 authors: []
 tags: []

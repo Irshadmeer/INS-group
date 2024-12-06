@@ -36,14 +36,14 @@ sections:
   #     columns: '1'
   #   params:
   #     title_style: link  
-  - block: markdown
-    content:
-      title: Recent Publications
-      subtitle: ''
-      text: >
-        <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2Fr2Pvn6jcg63gpfeZq&noBootstrap=1&jsonp=1"></script>
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Recent Publications
+  #     subtitle: ''
+  #     text: >
+  #       <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2Fr2Pvn6jcg63gpfeZq&noBootstrap=1&jsonp=1"></script>
+  #   design:
+  #     columns: '1'
 
 
   - block: collection

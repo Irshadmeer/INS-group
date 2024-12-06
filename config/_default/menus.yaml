@@ -5,7 +5,7 @@
 
 main:
   - name: Research Areas
-    url: research
+    url: research_areas
     weight: 1
   - name: Projects
     url: projects

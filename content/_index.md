@@ -36,7 +36,7 @@ sections:
   #     columns: '1'
   #   params:
   #     title_style: link  
-   - block: markdown
+  - block: markdown
     content:
       title: Recent Publications
       subtitle: ''

@@ -1,10 +1,8 @@
 ---
 title: Publications
-
-# Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
 ---
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2Fr2Pvn6jcg63gpfeZq&noBootstrap=1&jsonp=1"></script>
+<div> <p> Meer, Irshad A., Lee, Woong-Hee, Ozger, Mustafa, Cavdar, Cicek, and Sung, Ki Won. "Low-Latency MAC Design for Pairwise Random Networks." Presented at <i>2022 IEEE 95th Vehicular Technology Conference (VTC2022-Spring)</i>, pp. 1--6, 2022. </p> <p> Salehi, Fateme, Ozger, Mustafa, Neda, Naaser, and Cavdar, Cicek. "Ultra-reliable low-latency communication for aerial vehicles via multi-connectivity." Presented at <i>2022 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)</i>, pp. 166--171, 2022. </p> <p> Behdad, Zinat, Demir, Özlem Tuğfe, Sung, Ki Won, Björnson, Emil, and Cavdar, Cicek. "Power allocation for joint communication and sensing in cell-free massive MIMO." Presented at <i>GLOBECOM 2022–2022 IEEE Global Communications Conference</i>, pp. 4081--4086, 2022. </p> <p> Li, Zhenyu, Topal, Ozan Alp, Demir, Özlem Tuğfe, Björnson, Emil, and Cavdar, Cicek. "mmWave coverage extension using reconfigurable intelligent surfaces in indoor dense spaces." Presented at <i>ICC 2023–IEEE International Conference on Communications</i>, pp. 5805--5810, 2023. </p> <p> Ozger, Mustafa, Godor, Istvan, Nordlow, Anders, Heyn, Thomas, Pandi, Sreekrishna, Peterson, Ian, Viseras, Alberto, Holis, Jaroslav, Raffelsberger, Christian, Kercek, Andreas, and Cavdar, Cicek. "6G for connected sky: A vision for integrating terrestrial and non-terrestrial networks." Presented at <i>2023 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)</i>, pp. 711--716, 2023. </p> </div>
